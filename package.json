@@ -1,5 +1,5 @@
 {
-  "name": "project-1",
+  "name": "project-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "typescript": "^4.8.4"
+  "devDependencies": {
+    "typescript": "^4.9.3"
   }
 }
